@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Comercio
+title: Comercios
 include_in_header: true
 ---
 
