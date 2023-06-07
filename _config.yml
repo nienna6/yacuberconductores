@@ -37,7 +37,7 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Seguridad
-    description                           : Contamos con viajes geolocalizados, conductores identificados y un botón de seguridad disponible para cuidarte durante el viaje.
+    description                           : Viajes geolocalizados, conductores identificados y un botón de seguridad para cuidarte durante el viaje.
     fontawesome_icon_name                 : shield-halved
     
   - title                                 : Rapidez
