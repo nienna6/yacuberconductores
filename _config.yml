@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Seguridad
     description                           : Contamos con viajes geolocalizados, conductores identificados y un botón de seguridad disponible para cuidarte durante el viaje.
-    fontawesome_icon_name                 : shield-check
+    fontawesome_icon_name                 : shield-halved
     
   - title                                 : iPhone Device Preview
     description                           : Preview your app in the context of an iPhone device. Five different device colors included.
