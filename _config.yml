@@ -38,15 +38,15 @@ features                                  :
 
   - title                                 : Seguridad
     description                           : Contamos con viajes geolocalizados, conductores identificados y un botón de seguridad disponible para cuidarte durante el viaje.
-    fontawesome_icon_name                 : shield-halved
+    fontawesome_icon_name                 : shield
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Rapidez
+    description                           : Asegurate que siempre tendras el taxi mas cercano a ti, para que no tengas que esperar.
+    fontawesome_icon_name                 : storm
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Atencion 24/7
+    description                           : Taxis 24 horas disponibles, para que los solicites cuando los necesites.
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Automatic Icon and Metadata
     description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
