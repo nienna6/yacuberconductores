@@ -12,7 +12,7 @@ presskit_download_link                    : https://niennaonline.com            
 
 app_icon                                  : https://raw.githubusercontent.com/nienna6/yacuber/master/assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : Yacuber                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_price                                 : Gratis                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Seguridad y rapidez.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
@@ -38,7 +38,7 @@ features                                  :
 
   - title                                 : Seguridad
     description                           : Viajes geolocalizados, conductores identificados y un botón de seguridad para cuidarte durante el viaje.
-    fontawesome_icon_name                 : shield-halved
+    fontawesome_icon_name                 : house
     
   - title                                 : Rapidez
     description                           : Asegurate que siempre tendras el taxi mas cercano a ti, para que no tengas que esperar.
