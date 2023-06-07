@@ -38,11 +38,11 @@ features                                  :
 
   - title                                 : Seguridad
     description                           : Contamos con viajes geolocalizados, conductores identificados y un botón de seguridad disponible para cuidarte durante el viaje.
-    fontawesome_icon_name                 : shield
+    fontawesome_icon_name                 : shield-halved
     
   - title                                 : Rapidez
     description                           : Asegurate que siempre tendras el taxi mas cercano a ti, para que no tengas que esperar.
-    fontawesome_icon_name                 : storm
+    fontawesome_icon_name                 : bolt
 
   - title                                 : Atencion 24/7
     description                           : Taxis 24 horas disponibles, para que los solicites cuando los necesites.
