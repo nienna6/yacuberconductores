@@ -37,8 +37,8 @@ mastodon_link                             : https://mastodon.social/@ebaehr
 features                                  :
 
   - title                                 : Seguridad
-    description                           : Viajes geolocalizados, conductores identificados y un botón de seguridad para cuidarte durante el viaje.
-    fontawesome_icon_name                 : house
+    description                           : Viajes geolocalizados, conductores identificados y un botón de seguridad para cuidarte.
+    fontawesome_icon_name                 : map
     
   - title                                 : Rapidez
     description                           : Asegurate que siempre tendras el taxi mas cercano a ti, para que no tengas que esperar.
