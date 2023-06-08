@@ -44,9 +44,9 @@ features                                  :
     description                           : Asegurate que siempre tendras el taxi mas cercano a ti, para que no tengas que esperar.
     fontawesome_icon_name                 : bolt
 
-  - title                                 : Atencion 24/7
-    description                           : Taxis 24 horas disponibles, para que los solicites cuando los necesites.
-    fontawesome_icon_name                 : cloud
+  - title                                 : El mejor precio
+    description                           : Acepta el precio sugerido u oferta el precio adecuado para ti.
+    fontawesome_icon_name                 : money-bill
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
